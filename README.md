@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Next.js,React,React Navtive,MERN Stack**
 
-- 📫 How to reach me **mernstackprogramming@gmail.com**
+- 📫 How to reach me **programmerjaf@gmail.com**
 
 - ⚡ Fun fact **I am not an CSE Student**
 
